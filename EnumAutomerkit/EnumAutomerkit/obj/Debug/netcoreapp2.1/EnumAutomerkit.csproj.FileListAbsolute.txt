@@ -1,0 +1,11 @@
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/bin/Debug/netcoreapp2.1/EnumAutomerkit.deps.json
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/bin/Debug/netcoreapp2.1/EnumAutomerkit.runtimeconfig.json
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/bin/Debug/netcoreapp2.1/EnumAutomerkit.runtimeconfig.dev.json
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/bin/Debug/netcoreapp2.1/EnumAutomerkit.dll
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/bin/Debug/netcoreapp2.1/EnumAutomerkit.pdb
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.csprojAssemblyReference.cache
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.AssemblyInfoInputs.cache
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.AssemblyInfo.cs
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.dll
+/Users/niko/Projects/EnumAutomerkit/EnumAutomerkit/obj/Debug/netcoreapp2.1/EnumAutomerkit.pdb

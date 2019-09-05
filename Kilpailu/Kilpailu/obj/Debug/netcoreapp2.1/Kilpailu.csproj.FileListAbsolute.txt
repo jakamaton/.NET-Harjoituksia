@@ -1,0 +1,11 @@
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/bin/Debug/netcoreapp2.1/Kilpailu.deps.json
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/bin/Debug/netcoreapp2.1/Kilpailu.runtimeconfig.json
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/bin/Debug/netcoreapp2.1/Kilpailu.runtimeconfig.dev.json
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/bin/Debug/netcoreapp2.1/Kilpailu.dll
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/bin/Debug/netcoreapp2.1/Kilpailu.pdb
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.csprojAssemblyReference.cache
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.csproj.CoreCompileInputs.cache
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.AssemblyInfoInputs.cache
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.AssemblyInfo.cs
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.dll
+/Users/niko/Documents/C#/Kilpailu/Kilpailu/obj/Debug/netcoreapp2.1/Kilpailu.pdb

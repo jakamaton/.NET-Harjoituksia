@@ -1,0 +1,11 @@
+/Users/niko/Projects/Palindromi/Palindromi/bin/Debug/netcoreapp2.1/Palindromi.deps.json
+/Users/niko/Projects/Palindromi/Palindromi/bin/Debug/netcoreapp2.1/Palindromi.runtimeconfig.json
+/Users/niko/Projects/Palindromi/Palindromi/bin/Debug/netcoreapp2.1/Palindromi.runtimeconfig.dev.json
+/Users/niko/Projects/Palindromi/Palindromi/bin/Debug/netcoreapp2.1/Palindromi.dll
+/Users/niko/Projects/Palindromi/Palindromi/bin/Debug/netcoreapp2.1/Palindromi.pdb
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.csprojAssemblyReference.cache
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.AssemblyInfoInputs.cache
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.AssemblyInfo.cs
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.dll
+/Users/niko/Projects/Palindromi/Palindromi/obj/Debug/netcoreapp2.1/Palindromi.pdb

@@ -1,0 +1,13 @@
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/NoppaPeli.deps.json
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/NoppaPeli.runtimeconfig.json
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/NoppaPeli.runtimeconfig.dev.json
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/NoppaPeli.dll
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/NoppaPeli.pdb
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/bin/Debug/netcoreapp2.1/Helpers.dll
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.csprojAssemblyReference.cache
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.csproj.CoreCompileInputs.cache
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.AssemblyInfoInputs.cache
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.AssemblyInfo.cs
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.csproj.CopyComplete
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.dll
+/Users/niko/Documents/C#/NoppaPeli/NoppaPeli/obj/Debug/netcoreapp2.1/NoppaPeli.pdb

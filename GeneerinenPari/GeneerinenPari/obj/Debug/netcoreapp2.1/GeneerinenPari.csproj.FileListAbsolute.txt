@@ -1,0 +1,13 @@
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.csprojAssemblyReference.cache
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.csproj.CoreCompileInputs.cache
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.AssemblyInfoInputs.cache
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.AssemblyInfo.cs
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/GeneerinenPari.deps.json
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/GeneerinenPari.runtimeconfig.json
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/GeneerinenPari.runtimeconfig.dev.json
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/GeneerinenPari.dll
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/GeneerinenPari.pdb
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/bin/Debug/netcoreapp2.1/Helpers.dll
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.csproj.CopyComplete
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.dll
+/Users/niko/Projects/GeneerinenPari/GeneerinenPari/obj/Debug/netcoreapp2.1/GeneerinenPari.pdb

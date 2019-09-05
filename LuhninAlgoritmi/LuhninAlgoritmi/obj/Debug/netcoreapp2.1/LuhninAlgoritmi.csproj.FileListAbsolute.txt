@@ -1,0 +1,11 @@
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/bin/Debug/netcoreapp2.1/LuhninAlgoritmi.deps.json
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/bin/Debug/netcoreapp2.1/LuhninAlgoritmi.runtimeconfig.json
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/bin/Debug/netcoreapp2.1/LuhninAlgoritmi.runtimeconfig.dev.json
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/bin/Debug/netcoreapp2.1/LuhninAlgoritmi.dll
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/bin/Debug/netcoreapp2.1/LuhninAlgoritmi.pdb
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.csprojAssemblyReference.cache
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.csproj.CoreCompileInputs.cache
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.AssemblyInfoInputs.cache
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.AssemblyInfo.cs
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.dll
+/Users/niko/Documents/C#/LuhninAlgoritmi/LuhninAlgoritmi/obj/Debug/netcoreapp2.1/LuhninAlgoritmi.pdb

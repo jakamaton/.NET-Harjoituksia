@@ -1,0 +1,13 @@
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Tuotteet.deps.json
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Tuotteet.runtimeconfig.json
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Tuotteet.runtimeconfig.dev.json
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Tuotteet.dll
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Tuotteet.pdb
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/bin/Debug/netcoreapp2.1/Helpers.dll
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.csprojAssemblyReference.cache
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.csproj.CoreCompileInputs.cache
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.AssemblyInfoInputs.cache
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.AssemblyInfo.cs
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.csproj.CopyComplete
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.dll
+/Users/niko/Documents/C#/Tuotteet/Tuotteet/obj/Debug/netcoreapp2.1/Tuotteet.pdb
