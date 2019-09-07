@@ -1,3 +1,5 @@
+Osa tekemistäni C# harjoituksista.
+
 # Kilpailu
 C# harjoitus. Ohjelma sisältää rajapinnan Osallistujat jolla on ominaisuuksinaan id ja nimi. Luokka henkilö toteuttaa rajapinnan Osallistujat luokka sisältää ominaisuudet etunimi ja sukunimi ja nämä arvot sijoitetaan rajapinnan arvoon nimi. Luokka joukkue toteuttaa rajapinnan Osallistujat. Geneerinen luokka Suoritus sisältää kaksi tyyppiparametriä, joilla tyypitetään luokan automaattiset muuttujat. Luokka kilpailu on myös geneerinen ja sisältää kaksi tyyppiparametriä joita käytetään suoritus luokan tyypittämiseen. Kilpailu sisältää kaksi kappaletta automaattisia ominaisuuksia ja konstruktorin joka alustaa ominaisuudet. Luokka yksilökilpailu periytyy luokalta kilpailu sen tyyppiparametreillä on arvot Henkilö ja double. 
 
