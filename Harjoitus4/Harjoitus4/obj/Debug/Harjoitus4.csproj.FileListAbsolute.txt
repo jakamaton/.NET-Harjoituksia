@@ -1,0 +1,5 @@
+/Users/niko/Projects/Harjoitus4/Harjoitus4/obj/Debug/Harjoitus4.csprojAssemblyReference.cache
+/Users/niko/Projects/Harjoitus4/Harjoitus4/bin/Debug/Harjoitus4.exe
+/Users/niko/Projects/Harjoitus4/Harjoitus4/bin/Debug/Harjoitus4.pdb
+/Users/niko/Projects/Harjoitus4/Harjoitus4/obj/Debug/Harjoitus4.exe
+/Users/niko/Projects/Harjoitus4/Harjoitus4/obj/Debug/Harjoitus4.pdb
