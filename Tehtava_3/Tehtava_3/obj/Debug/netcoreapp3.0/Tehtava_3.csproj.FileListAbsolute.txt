@@ -1,0 +1,11 @@
+/Users/niko/Projects/Tehtava_3/Tehtava_3/obj/Debug/netcoreapp3.0/Tehtava_3.csprojAssemblyReference.cache
+/Users/niko/Projects/Tehtava_3/Tehtava_3/obj/Debug/netcoreapp3.0/Tehtava_3.AssemblyInfoInputs.cache
+/Users/niko/Projects/Tehtava_3/Tehtava_3/obj/Debug/netcoreapp3.0/Tehtava_3.AssemblyInfo.cs
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3.deps.json
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3.runtimeconfig.json
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3.runtimeconfig.dev.json
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3.dll
+/Users/niko/Projects/Tehtava_3/Tehtava_3/bin/Debug/netcoreapp3.0/Tehtava_3.pdb
+/Users/niko/Projects/Tehtava_3/Tehtava_3/obj/Debug/netcoreapp3.0/Tehtava_3.dll
+/Users/niko/Projects/Tehtava_3/Tehtava_3/obj/Debug/netcoreapp3.0/Tehtava_3.pdb
